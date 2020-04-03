@@ -1,0 +1,16 @@
+FREQUENCY 500HZ
+1 pulse = 1/500 Hz = 2 msec
+1msec ON time and 1msec OFF time.
+Crystal Frequency = 11.0592 MHz
+1 clock pulse = 1.085 μsec.
+Count = 1000 μsec /1.085 μsec = 921.6589
+Counter initial value = 65536 - 922 = 646 = FC67
+
+
+FREQUENCY 7kHZ
+1 pulse = 1/7kHz = 0.142msec
+71 μsec ON time and 71 μsec OFF line.
+Crystal Frequency = 11.0592MHz
+1 clock pulse = 1.085μsec.
+Count = 71μsec/1.085 μsec = 64.43
+Counter initial value = 256 - 64 = 192= 0C00
